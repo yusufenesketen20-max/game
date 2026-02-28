@@ -1,0 +1,5 @@
+{
+  "name": "Pro Soccer Arena",
+  "description": "A fast-paced 2D football game with physics-based gameplay and AI opponents.",
+  "requestFramePermissions": []
+}
